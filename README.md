@@ -91,7 +91,7 @@ In these tutorials for reinforcement learning, it covers from the basic RL algor
 
 # Donation
 
-*If this does help you, please consider donating to support me for better tutorials. Any contribution is greatly appreciated!*
+*If this does help you, please consider donating to support me. Any contribution is greatly appreciated!*
 
 <div >
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=a5562814%40gmail%2ecom&amp;lc=C2&amp;item_name=darld&amp;currency_code=SGD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">
