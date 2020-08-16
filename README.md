@@ -1,20 +1,3 @@
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=pieI7rOXELI&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba" target="_blank">
-    <img width="60%" src="https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/RL_cover.jpg" style="max-width:100%;">
-    </a>
-</p>
-
-
-<br>
-
-# Reinforcement Learning Methods and Tutorials
-
-In these tutorials for reinforcement learning, it covers from the basic RL algorithms to advanced algorithms developed recent years.
-
-**If you speak Chinese, visit [莫烦 Python](https://mofanpy.com) or my [Youtube channel](https://www.youtube.com/channel/UCdyjiB5H8Pu7aDTNVXTTpcg) for more.**
-
-**As many requests about making these tutorials available in English, please find them in this playlist:** ([https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba](https://www.youtube.com/playlist?list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba))
-
 # Table of Contents
 
 * Tutorials
